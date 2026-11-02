@@ -40,11 +40,11 @@ I build software and I test it. On the dev side I make web apps and ML/computer-
 ### 💼 Experience
 
 **Front End Web Development Intern** 
-**Edunet Foundation · Aug – Sep 2025
+@Edunet Foundation · Aug – Sep 2025
 Built and deployed a responsive portfolio site, with a focus on loading speed and reliable hosting.
 
 **Data Analytics Intern** 
-**VOIS for Tech · Sep – Oct 2025
+@VOIS for Tech · Sep – Oct 2025
 Ran EDA on 8,000+ Netflix records, cleaned about 15% of the data, and built visualizations of genre trends and production peaks with Pandas, NumPy, Seaborn and Plotly.
 
 ### 🏆 Highlights
