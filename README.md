@@ -1,4 +1,4 @@
-<img width="4032" height="1141" alt="image" src="https://github.com/user-attachments/assets/913013bf-1a11-491d-993b-e3933f230950" /><h1 align="center">Sonu Sri Samyuktha 👋</h1>
+<h1 align="center">Sonu Sri Samyuktha 👋</h1>
 <p align="center">
   <b>Software Developer • QA / SDET • Data Analytics</b><br>
   Final-year B.E. (ISE) student · Vemana Institute of Technology, Bangalore · CGPA 8.8/10
