@@ -18,19 +18,20 @@ I build software and I test it. On the dev side I make web apps and ML/computer-
 
 | Area | Stack |
 |---|---|
-| **Development** | Python · Java · JavaScript · HTML5 · CSS3 · Tailwind CSS · Vite |
-| **Backend & Deployment** | REST APIs · Render · Netlify |
-| **Databases** | SQL · MySQL · MongoDB |
-| **Python Libraries** | Numpy · Pandas · Matplotlib · Seaborn
-| **Testing & QA** | Selenium WebDriver · TestNG · Postman · Maven · Manual / Functional / Regression / Smoke / API Testing |
-| **Data & Design** | EDA · Tableau · Power BI · Figma |
-| **Tools** | Git · GitHub · VS Code · Eclipse · Linux (Fedora) |
-| **Practices** | SDLC · Agile · Test Case Design · Defect Documentation |
+| **Languages** | Python · Java · JavaScript · SQL |
+| **Web & Deploy** | HTML5 · CSS3 · Tailwind CSS · Vite · Netlify · Render |
+| **Backend** | FastAPI · Node.js · REST APIs |
+| **Data** | NumPy · Pandas · Matplotlib · Seaborn · Excel ·  Tableau · Power BI |
+| **Databases** | MySQL · MongoDB |
+| **Testing** | Selenium · TestNG · Postman · Maven · Manual & API Testing |
+| **Tools** | Git · GitHub · VS Code · Eclipse · Linux · Figma · Google Colab|
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -39,10 +40,12 @@ I build software and I test it. On the dev side I make web apps and ML/computer-
 
 ### 💼 Experience
 
-**Front End Web Development Intern** · Edunet Foundation · Aug – Sep 2025
+**Front End Web Development Intern** 
+-Edunet Foundation · Aug – Sep 2025
 Built and deployed a responsive portfolio site, with a focus on loading speed and reliable hosting.
 
-**Data Analytics Intern** · VOIS for Tech · Sep – Oct 2025
+**Data Analytics Intern** 
+-VOIS for Tech · Sep – Oct 2025
 Ran EDA on 8,000+ Netflix records, cleaned about 15% of the data, and built visualizations of genre trends and production peaks with Pandas, NumPy, Seaborn and Plotly.
 
 ### 🏆 Highlights
@@ -52,6 +55,10 @@ Ran EDA on 8,000+ Netflix records, cleaned about 15% of the data, and built visu
 
 ### 📚 Coursework
 Data Structures & Algorithms · OOP · DBMS · Software Engineering · Machine Learning
+
+### Certifications & Learning
+-NPTEL -- The Joy of Computing using Python
+-Infosys Springboard -- Cloud Computing
 
 ### 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
