@@ -1,4 +1,4 @@
-<h1 align="center">Sonu Sri Samyuktha 👋</h1>
+<h1 align="center">Sonu Sri Samyuktha 👾 </h1>
 <p align="center">
   <b>Software Developer • QA / SDET • Data Analytics</b><br>
   Final-year B.E. (ISE) student · Vemana Institute of Technology, Bangalore · CGPA 8.8/10
@@ -31,7 +31,6 @@ I build software and I test it. On the dev side I make web apps and ML/computer-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -41,11 +40,11 @@ I build software and I test it. On the dev side I make web apps and ML/computer-
 ### 💼 Experience
 
 **Front End Web Development Intern** 
--Edunet Foundation · Aug – Sep 2025
+**Edunet Foundation · Aug – Sep 2025
 Built and deployed a responsive portfolio site, with a focus on loading speed and reliable hosting.
 
 **Data Analytics Intern** 
--VOIS for Tech · Sep – Oct 2025
+**VOIS for Tech · Sep – Oct 2025
 Ran EDA on 8,000+ Netflix records, cleaned about 15% of the data, and built visualizations of genre trends and production peaks with Pandas, NumPy, Seaborn and Plotly.
 
 ### 🏆 Highlights
@@ -57,9 +56,13 @@ Ran EDA on 8,000+ Netflix records, cleaned about 15% of the data, and built visu
 Data Structures & Algorithms · OOP · DBMS · Software Engineering · Machine Learning
 
 ### Certifications & Learning
--NPTEL -- The Joy of Computing using Python
--Infosys Springboard -- Cloud Computing
+- NPTEL -- The Joy of Computing using Python
+- Infosys Springboard -- Cloud Computing
+- Infosys Springboard -- Agile Scrum in Practice
+- VOIS -- Data Visulisation
+- IBM SkillsBuild -- Web Development Fundamentals
 
 ### 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6f42c1?style=for-the-badge&logo=vercel&logoColor=white)](https://digital-alienhabitat.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyuktha2027/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyuktha102005@gmail.com)
