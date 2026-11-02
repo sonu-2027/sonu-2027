@@ -1,4 +1,4 @@
-<h1 align="center">Sonu Sri Samyuktha 👋</h1>
+<img width="4032" height="1141" alt="image" src="https://github.com/user-attachments/assets/913013bf-1a11-491d-993b-e3933f230950" /><h1 align="center">Sonu Sri Samyuktha 👋</h1>
 <p align="center">
   <b>Software Developer • QA / SDET • Data Analytics</b><br>
   Final-year B.E. (ISE) student · Vemana Institute of Technology, Bangalore · CGPA 8.8/10
@@ -12,7 +12,7 @@
 ---
 
 ### 👩‍💻 About me
-I build software and I test it. On the dev side I make web apps and ML/computer-vision projects in Python, Java and JavaScript. On the quality side I write automated tests with Selenium and TestNG and validate APIs in Postman. Knowing both helps me write code that's easier to test and tests that actually catch bugs. I'm also interested in AI/ML and technology for capital markets.
+I build software and I test it. On the dev side I make web apps and ML/computer-vision projects in Python, Java and JavaScript. On the quality side I write automated tests with Selenium and TestNG and validate APIs in Postman. Knowing both helps me write code that's easier to test and tests that actually catch bugs. Exploring AI, Machine Learning, Deep Learning, and Generative AI to build impactful and intelligent applications.
 
 ### 🛠️ Toolbox
 
