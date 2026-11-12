@@ -20,10 +20,10 @@ I build software and I test it. On the dev side I make web apps and ML/computer-
 |---|---|
 | **Languages** | Python · Java · JavaScript · SQL |
 | **Web & Deploy** | HTML5 · CSS3 · Tailwind CSS · Vite · Netlify · Render |
-| **Backend** | FastAPI · Node.js · REST APIs |
+| **Backend** | FastAPI · REST APIs |
 | **Data** | NumPy · Pandas · Matplotlib · Seaborn · Excel ·  Tableau · Power BI |
-| **Databases** | MySQL · MongoDB |
-| **Testing** | Selenium · TestNG · Postman · Maven · Manual & API Testing |
+| **Databases** | MySQL · PostgreSQL · MongoDB |
+| **Testing** | Selenium · TestNG · Postman · Maven  |
 | **Tools** | Git · GitHub · VS Code · Eclipse · Linux · Figma · Google Colab|
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -51,6 +51,7 @@ Ran EDA on 8,000+ Netflix records, cleaned about 15% of the data, and built visu
 - 🎓 **NPTEL:** scored 94%, Top 5% of candidates
 - 📋 **AICTE Activity Coordinator (ISE Dept):** scheduled events, coordinated participation and designed posters
 - 🍽️ **Food Fest Coordinator:** ran stall operations, budgeting and promotion
+- ![Google Cloud](https://skillicons.dev/icons?i=gcp)**Google Cloud Learn with Communities (Ongoing):** Actively learning GCP through hands-on cloud labs.
 
 ### 📚 Coursework
 Data Structures & Algorithms · OOP · DBMS · Software Engineering · Machine Learning
